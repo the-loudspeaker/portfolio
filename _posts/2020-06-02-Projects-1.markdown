@@ -1,0 +1,8 @@
+---
+layout: default
+img: coming-soon.png
+category: Projects
+title: Projects
+description: |
+---
+  Projects are comming soon. Stay tuned.
