@@ -1,0 +1,12 @@
+---
+layout: default
+img: pandemonium.png
+category: Projects
+title: Pandemonium | Internet Radio app
+description: |
+---
+[https://github.com/the-loudspeaker/pandemodium](https://github.com/the-loudspeaker/pandemodium)
+
+A minimalist, modern Internet Radio application powered by flutter that uses the Material You theme.
+
+Features favourites, background playback and search.
